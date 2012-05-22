@@ -1,0 +1,10 @@
+Checkout
+
+pom.xml
+web.xml
+com.bia.restdemo.MonitorRest.java
+com.bia.restdemo.MyApplication.java
+
+After deployment checkout this Sample URL for validation
+http://localhost:7001/RestDemo-1.0-SNAPSHOT/rest/monitor/status/343#
+
